@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="DESKTOP-GAM3R" name="MapGeneratorTest" skipped="0" tests="2" time="0.074" timestamp="2024-03-17T11:36:22">
+<testsuite errors="0" failures="0" hostname="DESKTOP-GAM3R" name="MapGeneratorTest" skipped="0" tests="2" time="0.093" timestamp="2024-04-17T16:43:09">
   <properties>
     <property name="libs.spring-framework300.classpath" value="C:\Program Files\NetBeans-19\netbeans\platform\modules\org-apache-commons-logging.jar;C:\Program Files\NetBeans-19\netbeans\java\modules\ext\cglib-2.2.jar;C:\Program Files\NetBeans-19\netbeans\java\modules\ext\spring-3.0\spring-aop-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-19\netbeans\java\modules\ext\spring-3.0\spring-aspects-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-19\netbeans\java\modules\ext\spring-3.0\spring-beans-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-19\netbeans\java\modules\ext\spring-3.0\spring-context-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-19\netbeans\java\modules\ext\spring-3.0\spring-context-support-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-19\netbeans\java\modules\ext\spring-3.0\spring-core-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-19\netbeans\java\modules\ext\spring-3.0\spring-expression-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-19\netbeans\java\modules\ext\spring-3.0\spring-instrument-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-19\netbeans\java\modules\ext\spring-3.0\spring-instrument-tomcat-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-19\netbeans\java\modules\ext\spring-3.0\spring-jdbc-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-19\netbeans\java\modules\ext\spring-3.0\spring-jms-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-19\netbeans\java\modules\ext\spring-3.0\spring-orm-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-19\netbeans\java\modules\ext\spring-3.0\spring-oxm-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-19\netbeans\java\modules\ext\spring-3.0\spring-struts-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-19\netbeans\java\modules\ext\spring-3.0\spring-test-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-19\netbeans\java\modules\ext\spring-3.0\spring-tx-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-19\netbeans\java\modules\ext\spring-3.0\spring-web-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-19\netbeans\java\modules\ext\spring-3.0\spring-webmvc-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-19\netbeans\java\modules\ext\spring-3.0\spring-webmvc-portlet-3.2.18.RELEASE.jar" />
     <property name="javac.test.classpath" value=":build/classes:C:\Program Files\NetBeans-19\netbeans\platform\modules\ext\junit-4.13.2.jar:C:\Program Files\NetBeans-19\netbeans\platform\modules\ext\hamcrest-core-1.3.jar" />
@@ -18,12 +18,12 @@
     <property name="libs.eclipselink.javadoc" value="C:\Program Files\NetBeans-19\netbeans\java\modules\ext\docs\jakarta.persistence-2.2.3-doc.zip" />
     <property name="libs.JWSAntTasks.javadoc" value="" />
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21\bin" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner MapGeneratorTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=true formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,S:\GitHubProjects\Java-Game-Brick-Breaker-master\build\test\results\TEST-MapGeneratorTest.xml crashfile=S:\GitHubProjects\Java-Game-Brick-Breaker-master\build\junitvmwatcher698139518147531912.properties propsfile=S:\GitHubProjects\Java-Game-Brick-Breaker-master\build\junit6047929076357450296.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner MapGeneratorTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=true formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,S:\Java-Game-Brick-Breaker-master\build\test\results\TEST-MapGeneratorTest.xml crashfile=S:\Java-Game-Brick-Breaker-master\build\junitvmwatcher5020305279235298118.properties propsfile=S:\Java-Game-Brick-Breaker-master\build\junit7419310642606843707.properties" />
     <property name="jdk.debug" value="release" />
     <property name="libs.spring-framework300.src" value="" />
     <property name="javadoc.use" value="true" />
     <property name="javadoc.notree" value="false" />
-    <property name="basedir" value="S:\GitHubProjects\Java-Game-Brick-Breaker-master" />
+    <property name="basedir" value="S:\Java-Game-Brick-Breaker-master" />
     <property name="application.vendor" value="SPECIAL" />
     <property name="java.specification.name" value="Java Platform API Specification" />
     <property name="java.vm.specification.vendor" value="Oracle Corporation" />
@@ -66,7 +66,7 @@
     <property name="test.includes" value="MapGeneratorTest.java" />
     <property name="run.classpath" value=":build/classes" />
     <property name="libs.jaxb.src" value="" />
-    <property name="ant.file.brickbreaker" value="S:\GitHubProjects\Java-Game-Brick-Breaker-master\build.xml" />
+    <property name="ant.file.brickbreaker" value="S:\Java-Game-Brick-Breaker-master\build.xml" />
     <property name="sun.awt.enableExtraMouseButtons" value="true" />
     <property name="test.src.dir" value="test" />
     <property name="org.openide.major.version" value="IDE/1" />
@@ -91,7 +91,6 @@
     <property name="annotation.processing.processors.list" value="" />
     <property name="javac.deprecation" value="false" />
     <property name="jlink.launcher" value="false" />
-    <property name="jdk.xml.xpathExprOpLimit" value="0" />
     <property name="build.generated.sources.dir" value="build/generated-sources" />
     <property name="plugin.manager.check.updates" value="false" />
     <property name="netbeans.autoupdate.language" value="en" />
@@ -139,7 +138,6 @@
     <property name="netbeans.productversion" value="Apache NetBeans IDE 19" />
     <property name="mkdist.disabled" value="false" />
     <property name="libs.javaee-web-api-6.0.javadoc" value="C:\Program Files\NetBeans-19\netbeans\enterprise\docs\javaee-doc-api.jar" />
-    <property name="jdk.xml.xpathTotalOpLimit" value="0" />
     <property name="libs.FX21.maven-pom" value="" />
     <property name="libs.groovy-all.classpath" value="C:\Program Files\NetBeans-19\netbeans\groovy\modules\ext\groovy-3.0.8.jar;C:\Program Files\NetBeans-19\netbeans\groovy\modules\ext\groovy-ant-3.0.8.jar" />
     <property name="libs.javaee-api-7.0.maven-pom" value="" />
@@ -174,7 +172,7 @@
     <property name="libs.jpa20-persistence.src" value="" />
     <property name="libs.restapi.javadoc" value="" />
     <property name="endorsed.classpath" value="" />
-    <property name="javac.test.sourcepath" value="S:\GitHubProjects\Java-Game-Brick-Breaker-master\build\empty" />
+    <property name="javac.test.sourcepath" value="S:\Java-Game-Brick-Breaker-master\build\empty" />
     <property name="libs.spring-webmvc3.0.maven-pom" value="" />
     <property name="includes" value="**" />
     <property name="libs.jsf12.javadoc" value="C:\Program Files\NetBeans-19\netbeans\enterprise\docs\javaee-doc-api.jar" />
@@ -208,7 +206,7 @@
     <property name="libs.jsp-compilation-syscp.classpath" value="C:\Program Files\NetBeans-19\netbeans\extide\ant\lib\ant.jar;C:\Program Files\NetBeans-19\netbeans\enterprise\modules\ext\servlet4.0-jsp2.3-api.jar;C:\Program Files\NetBeans-19\netbeans\enterprise\modules\ext\glassfish-jspparser-5.1.0.jar;C:\Program Files\NetBeans-19\netbeans\enterprise\modules\ext\jstl-impl.jar;C:\Program Files\NetBeans-19\netbeans\enterprise\modules\ext\jsf-2_2\javax.faces.jar" />
     <property name="libs.jsp-compilation.classpath" value="C:\Program Files\NetBeans-19\netbeans\extide\ant\lib\ant.jar;C:\Program Files\NetBeans-19\netbeans\enterprise\modules\ext\servlet4.0-jsp2.3-api.jar;C:\Program Files\NetBeans-19\netbeans\enterprise\modules\ext\glassfish-jspparser-5.1.0.jar;C:\Program Files\NetBeans-19\netbeans\enterprise\modules\ext\jsf-2_2\javax.faces.jar;C:\Program Files\NetBeans-19\netbeans\enterprise\modules\ext\jstl-api.jar;C:\Program Files\NetBeans-19\netbeans\extide\ant\lib\ant-launcher.jar" />
     <property name="libs.javaee-api-6.0.classpath" value="C:\Program Files\NetBeans-19\netbeans\enterprise\modules\ext\javaee-api-6.0.jar" />
-    <property name="javac.includesfile.binary" value="S:\GitHubProjects\Java-Game-Brick-Breaker-master\null219385826" />
+    <property name="javac.includesfile.binary" value="S:\Java-Game-Brick-Breaker-master\null596121913" />
     <property name="libs.javaee-api-7.0.classpath" value="C:\Program Files\NetBeans-19\netbeans\enterprise\modules\ext\javaee-api-7.0.jar" />
     <property name="sun.cpu.isalist" value="amd64" />
     <property name="libs.restapi.maven-pom" value="" />
@@ -227,7 +225,7 @@
     <property name="javac.source" value="1.8" />
     <property name="java.version.date" value="2023-10-17" />
     <property name="java.home" value="C:\Program Files\Java\jdk-21" />
-    <property name="work.dir" value="S:\GitHubProjects\Java-Game-Brick-Breaker-master" />
+    <property name="work.dir" value="S:\Java-Game-Brick-Breaker-master" />
     <property name="javac.test.compilerargs" value="" />
     <property name="jna.boot.library.name" value="jnidispatch-nb" />
     <property name="libs.PostgreSQLDriver.classpath" value="C:\Program Files\NetBeans-19\netbeans\ide\modules\ext\postgresql-42.5.4.jar" />
@@ -252,7 +250,7 @@
     <property name="do.archive" value="true" />
     <property name="libs.FX21.classpath" value="C:\Program Files\javafx-sdk-21.0.2\lib\javafx-swt.jar;C:\Program Files\javafx-sdk-21.0.2\lib\javafx.base.jar;C:\Program Files\javafx-sdk-21.0.2\lib\javafx.controls.jar;C:\Program Files\javafx-sdk-21.0.2\lib\javafx.fxml.jar;C:\Program Files\javafx-sdk-21.0.2\lib\javafx.graphics.jar;C:\Program Files\javafx-sdk-21.0.2\lib\javafx.media.jar;C:\Program Files\javafx-sdk-21.0.2\lib\javafx.swing.jar;C:\Program Files\javafx-sdk-21.0.2\lib\javafx.web.jar" />
     <property name="libs.struts.maven-pom" value="" />
-    <property name="built-jar.properties" value="S:\GitHubProjects\Java-Game-Brick-Breaker-master\build\built-jar.properties" />
+    <property name="built-jar.properties" value="S:\Java-Game-Brick-Breaker-master\build\built-jar.properties" />
     <property name="nb.native.filechooser" value="false" />
     <property name="libs.testng.src" value="" />
     <property name="libs.javaee-web-api-8.0.classpath" value="C:\Program Files\NetBeans-19\netbeans\enterprise\modules\ext\javaee-web-api-8.0.jar" />
@@ -291,8 +289,8 @@
     <property name="libs.graaljs.src" value="" />
     <property name="run.jvmargs" value="" />
     <property name="libs.primefaces.src" value="" />
-    <property name="ant.file" value="S:\GitHubProjects\Java-Game-Brick-Breaker-master\build.xml" />
-    <property name="ant.file.brickbreaker-impl" value="S:\GitHubProjects\Java-Game-Brick-Breaker-master\nbproject\build-impl.xml" />
+    <property name="ant.file" value="S:\Java-Game-Brick-Breaker-master\build.xml" />
+    <property name="ant.file.brickbreaker-impl" value="S:\Java-Game-Brick-Breaker-master\nbproject\build-impl.xml" />
     <property name="libs.struts.src" value="" />
     <property name="stdout.encoding" value="Cp1252" />
     <property name="path.separator" value=";" />
@@ -303,7 +301,6 @@
     <property name="libs.javaee-endorsed-api-6.0.javadoc" value="C:\Program Files\NetBeans-19\netbeans\enterprise\docs\javaee-doc-api.jar" />
     <property name="libs.spring-framework400.maven-pom" value="" />
     <property name="ap.processors.internal" value="" />
-    <property name="jdk.xml.xpathExprGrpLimit" value="0" />
     <property name="libs.jsf12.classpath" value="C:\Program Files\NetBeans-19\netbeans\enterprise\modules\ext\jsf-1_2\jsf-api.jar;C:\Program Files\NetBeans-19\netbeans\enterprise\modules\ext\jsf-1_2\jsf-impl.jar" />
     <property name="libs.spring-webmvc5.0.javadoc" value="" />
     <property name="libs.hamcrest.javadoc" value="" />
@@ -329,11 +326,11 @@
     <property name="libs.jsf20.javadoc" value="C:\Program Files\NetBeans-19\netbeans\enterprise\docs\javaee-doc-api.jar" />
     <property name="netbeans.importclass" value="org.netbeans.upgrade.AutoUpgrade" />
     <property name="netbeans.autoupdate.version" value="1.23" />
-    <property name="empty.dir" value="S:\GitHubProjects\Java-Game-Brick-Breaker-master\build\empty" />
+    <property name="empty.dir" value="S:\Java-Game-Brick-Breaker-master\build\empty" />
     <property name="libs.jakartaee-api-10.0.classpath" value="C:\Program Files\NetBeans-19\netbeans\enterprise\modules\ext\jakarta.jakartaee-api-10.0.0.jar" />
     <property name="netbeans.user" value="C:\Users\SPECIAL\AppData\Roaming\NetBeans\19" />
     <property name="platforms.JDK_21.bootclasspath" value="C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/com.azul.crs.client/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/com.azul.tooling/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/java.base/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/java.compiler/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/java.datatransfer/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/java.desktop/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/java.instrument/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/java.logging/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/java.management/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/java.management.rmi/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/java.naming/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/java.net.http/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/java.prefs/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/java.rmi/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/java.scripting/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/java.se/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/java.security.jgss/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/java.security.sasl/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/java.smartcardio/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/java.sql/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/java.sql.rowset/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/java.transaction.xa/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/java.xml/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/java.xml.crypto/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/javafx.base/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/javafx.controls/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/javafx.fxml/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/javafx.graphics/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/javafx.media/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/javafx.swing/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/javafx.web/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.accessibility/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.attach/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.charsets/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.compiler/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.crypto.cryptoki/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.crypto.ec/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.crypto.mscapi/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.dynalink/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.editpad/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.hotspot.agent/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.httpserver/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.incubator.vector/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.internal.ed/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.internal.jvmstat/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.internal.le/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.internal.opt/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.internal.vm.ci/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.internal.vm.compiler/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.internal.vm.compiler.management/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.jartool/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.javadoc/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.jcmd/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.jconsole/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.jdeps/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.jdi/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.jdwp.agent/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.jfr/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.jlink/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.jpackage/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.jshell/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.jsobject/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.jstatd/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.localedata/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.management/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.management.agent/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.management.jfr/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.naming.dns/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.naming.rmi/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.net/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.nio.mapmode/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.random/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.sctp/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.security.auth/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.security.jgss/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.unsupported/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.unsupported.desktop/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.xml.dom/;C:\Users\SPECIAL\Downloads\zulu21.32.17-ca-fx-jdk21.0.2-win_x64\!/modules/jdk.zipfs/" />
-    <property name="javac.includes.binary" value="S:\GitHubProjects\Java-Game-Brick-Breaker-master\build\test\classes\MapGeneratorTest.class" />
+    <property name="javac.includes.binary" value="S:\Java-Game-Brick-Breaker-master\build\test\classes\MapGeneratorTest.class" />
     <property name="file.separator" value="\" />
     <property name="line.separator" value="&#xd;&#xa;" />
     <property name="javadoc.additionalparam" value="" />
@@ -372,7 +369,7 @@
     <property name="user.properties.file" value="C:\Users\SPECIAL\AppData\Roaming\NetBeans\19\build.properties" />
     <property name="javac.includes" value="MapGeneratorTest.java" />
     <property name="netbeans.autoupdate.country" value="US" />
-    <property name="java.class.path" value="S:\GitHubProjects\Java-Game-Brick-Breaker-master\build\classes;C:\Program Files\NetBeans-19\netbeans\platform\modules\ext\junit-4.13.2.jar;C:\Program Files\NetBeans-19\netbeans\platform\modules\ext\hamcrest-core-1.3.jar;S:\GitHubProjects\Java-Game-Brick-Breaker-master\build\test\classes;C:\Program Files\NetBeans-19\netbeans\extide\ant\lib\ant-launcher.jar;C:\Program Files\NetBeans-19\netbeans\extide\ant\lib\ant.jar;C:\Program Files\NetBeans-19\netbeans\extide\ant\lib\ant-junit.jar;C:\Program Files\NetBeans-19\netbeans\extide\ant\lib\ant-junit4.jar" />
+    <property name="java.class.path" value="S:\Java-Game-Brick-Breaker-master\build\classes;C:\Program Files\NetBeans-19\netbeans\platform\modules\ext\junit-4.13.2.jar;C:\Program Files\NetBeans-19\netbeans\platform\modules\ext\hamcrest-core-1.3.jar;S:\Java-Game-Brick-Breaker-master\build\test\classes;C:\Program Files\NetBeans-19\netbeans\extide\ant\lib\ant-launcher.jar;C:\Program Files\NetBeans-19\netbeans\extide\ant\lib\ant.jar;C:\Program Files\NetBeans-19\netbeans\extide\ant\lib\ant-junit.jar;C:\Program Files\NetBeans-19\netbeans\extide\ant\lib\ant-junit4.jar" />
     <property name="libs.javaee-web-api-6.0.maven-pom" value="" />
     <property name="java.vm.vendor" value="Oracle Corporation" />
     <property name="ap.supported.internal" value="true" />
@@ -417,7 +414,7 @@
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/" />
     <property name="annotation.processing.source.output" value="build/generated-sources/ap-source-output" />
     <property name="libs.javaee-endorsed-api-6.0.maven-pom" value="" />
-    <property name="user.dir" value="S:\GitHubProjects\Java-Game-Brick-Breaker-master" />
+    <property name="user.dir" value="S:\Java-Game-Brick-Breaker-master" />
     <property name="platform.java" value="C:\Program Files\Java\jdk-21/bin/java" />
     <property name="ant.file.type.brickbreaker" value="file" />
     <property name="application.args" value="" />
@@ -439,7 +436,7 @@
     <property name="libs.jsp-compiler.classpath" value="C:\Program Files\NetBeans-19\netbeans\enterprise\ant\extra\jspcompile.jar" />
     <property name="libs.javaee-endorsed-api-6.0.classpath" value="C:\Program Files\NetBeans-19\netbeans\enterprise\modules\ext\javaee6-endorsed\javax.annotation.jar;C:\Program Files\NetBeans-19\netbeans\enterprise\modules\ext\javaee6-endorsed\jaxb-api-osgi.jar;C:\Program Files\NetBeans-19\netbeans\enterprise\modules\ext\javaee6-endorsed\webservices-api-osgi.jar" />
   </properties>
-  <testcase classname="MapGeneratorTest" name="testSetBrickValue" time="0.004" />
+  <testcase classname="MapGeneratorTest" name="testSetBrickValue" time="0.005" />
   <testcase classname="MapGeneratorTest" name="testInitialBrickConfiguration" time="0.0" />
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
